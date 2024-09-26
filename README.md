@@ -15,7 +15,6 @@ With a strong data background and advanced knowledge on tools like:
 - ETL/ELT
 - Data Cleaning and Transformation
 - Data Pipelines
-- Machine Learning
 
 I am looking for an opportunity in the data engineering area, where I can develop my skills and contribute significant value to the company through the activities I perform.
 
